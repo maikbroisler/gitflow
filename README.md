@@ -1,6 +1,6 @@
 # Funcionalidades:
 
-## [] - Criar boilerplate
-## [] - Criar arquivo de estilização
-## [] - Criar arquivo de soma
-## [] - Criar arquivo de subtração
+## [x] - Criar boilerplate
+## [X] - Criar arquivo de estilização
+## [X] - Criar arquivo de soma
+## [X] - Criar arquivo de subtração
